@@ -1,0 +1,5 @@
+body {
+color: red;
+margin: 0 auto;
+wight: 1850px;
+}
